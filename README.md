@@ -46,7 +46,7 @@ The original sketch of `VanCrime` dashboard was created with [`Balsamiq`](https:
 
 ## Quick Links
 
--   [VanCrime Live Application](https://t8te7y-yuxiang-wang.shinyapps.io/SeattleHousing/)
+-   [Seattle House Sale Live Application](https://t8te7y-yuxiang-wang.shinyapps.io/SeattleHousing/)
 -   [Issues](https://github.com/tiger12055/532_individual_assignment/issues)
 -   [Proposal](reports/proposal.md)
 -   [Contributing Guidelines](CONTRIBUTING.md)
