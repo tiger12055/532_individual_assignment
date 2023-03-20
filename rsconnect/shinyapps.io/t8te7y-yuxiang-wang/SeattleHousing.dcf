@@ -5,9 +5,10 @@ account: t8te7y-yuxiang-wang
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8606489
-bundleId: 6977356
+bundleId: 6984494
 url: https://t8te7y-yuxiang-wang.shinyapps.io/SeattleHousing/
-when: 1679193910.60361
-lastSyncTime: 1679193910.60362
+when: 1679356129.54707
+lastSyncTime: 1679356129.54709
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: CODE_OF_CONDUCT.md|CONTRIBUTING.md|LICENSE|README.md|reports/proposal.md

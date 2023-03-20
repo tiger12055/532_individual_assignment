@@ -2,11 +2,11 @@
 
 ## Overview
 
-Thank you for visiting the VanCrime app project repository. This repository hosts the dashboard for the Vancouver (Canada) crime data released by the Vancouver Police Department ([VPD](https://vpd.ca/)). This information, which spans 2003 through 2022, is public domain and is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Thank you for visiting the Seattle Houisng sale app project repository. This repository hosts the dashboard for the Seattle Housing sale App.
 
 This README file serves as a central location for the project's documentation. You may either go directly to a subsection of interest or continue reading to learn more.
 
-* [Who are we and what is this app about?](#who-are-we-and-what-is-this-app-about)
+* [Who are we and what is this app about?](#what-is-this-app-about)
 * [How to use this app?](#how-to-use-this-app)
 * [Getting started](#getting-started)
 * [License](#license)
@@ -21,7 +21,7 @@ The app is a Seattle housing listings dashboard that provides users with the abi
 
 The program follows a conventional dashboard layout in which the user can select or specify the scope of what they need to visualize on the left side, and a set of relevant visualization components that update in response to the user's selection criteria on the right.
 
-Here's a link to the live [application](https://markusnam.shinyapps.io/VanCrime/) if you like to check it out.
+Here's a link to the live [application](https://t8te7y-yuxiang-wang.shinyapps.io/SeattleHousing/) if you like to check it out.
 
 
 This house app includes:
@@ -38,7 +38,7 @@ The app has a user-friendly interface that allows the user to easily adjust the 
 
 ## License
 
-`VanCrime` was created by Morris Chan, Markus Nam, Andy Wang and Tony Zoght. It is licensed under the terms of the [MIT license](LICENSE).
+`SeattleHouse` was created by Andy Wang. It is licensed under the terms of the [MIT license](LICENSE).
 
 ## Credits
 
@@ -46,8 +46,8 @@ The original sketch of `VanCrime` dashboard was created with [`Balsamiq`](https:
 
 ## Quick Links
 
--   [VanCrime Live Application](https://markusnam.shinyapps.io/VanCrime/)
--   [Issues](https://github.com/UBC-MDS/VanCrime/issues)
+-   [VanCrime Live Application](https://t8te7y-yuxiang-wang.shinyapps.io/SeattleHousing/)
+-   [Issues](https://github.com/tiger12055/532_individual_assignment/issues)
 -   [Proposal](reports/proposal.md)
 -   [Contributing Guidelines](CONTRIBUTING.md)
 -   [Code of Conduct](CODE_OF_CONDUCT.md)
